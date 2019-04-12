@@ -1,0 +1,49 @@
+1- https://github.com/y0ast/Variational-Autoencoder
+
+2- https://github.com/kvfrans/variational-autoencoder
+
+3- https://github.com/hwalsuklee/tensorflow-mnist-VAE
+
+4- https://github.com/timbmg/VAE-CVAE-MNIST
+
+5- https://github.com/chaitanya100100/VAE-for-Image-Generation
+
+6- https://github.com/conormdurkan/variational-autoencoder
+
+7- https://github.com/shaohua0116/VAE-Tensorflow
+
+8- https://jmetzen.github.io/2015-11-27/vae.html 
+
+9- https://gist.github.com/danijar/1cb4d81fed37fd06ef60d08c1181f557 
+
+10- https://github.com/LynnHo/VAE-Tensorflow
+
+11- https://github.com/tegg89/VAE-Tensorflow
+
+12- https://github.com/kamperh/autoencoders_mnist
+
+13- https://github.com/hiwonjoon/tf-vqvae
+
+14- https://github.com/nadavbh12/VQ-VAE
+
+15- https://github.com/kvmanohar22/Generative-Models
+
+16- https://github.com/JeremyCCHsu/Gumbel-Softmax-VAE-in-tensorflow
+
+17- https://github.com/google/vae-seq
+
+18 - https://github.com/Natsu6767/Variational-Autoencoder
+
+19- https://github.com/asahi417/ConditionalVariationalAutoEncoder
+
+20 - https://github.com/aalitaiga/Generative-models
+
+21 - https://github.com/bsivanantham/VariationalAutoEncoder
+
+22- https://github.com/LordAlucard90/Variational-AutoEncoder-For-Novelty-Detection
+
+23- https://github.com/romain-lopez/HCV
+
+24 - https://github.com/SavyaSaachiVerma/VariationalAutoEncoder
+
+25 - https://github.com/pvarin/VariationalAutoEncoder
