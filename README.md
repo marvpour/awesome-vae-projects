@@ -1,4 +1,4 @@
-# Curated List of 25 Variational Autoencoder (VAE) Projects
+# VAE Project Hub
 
 This repository contains a curated collection of 25 high-quality Variational Autoencoder (VAE) projects and resources from GitHub and other sources. These projects showcase different VAE implementations, tutorials, and applications using frameworks like TensorFlow and PyTorch.
 
